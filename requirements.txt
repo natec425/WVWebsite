@@ -1,5 +1,5 @@
 django==3.2
-django-allauth==0.49
+django-allauth==0.41
 django-tinymce
 dj-database-url
 whitenoise
